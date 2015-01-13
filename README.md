@@ -1,7 +1,6 @@
-# dropwizard-deltaspike
+# dropwizard-weld
 
-CDI/Deltaspike support for dropwizard.
-
+CDI support for servlets, listeners and resources via weld-se/weld-servlet.
 
 ## Design Decisions
 
